@@ -43,7 +43,10 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "in-app-review",
+    "turbomodules",
+    "new-architecture"
   ],
   "repository": {
     "type": "git",
